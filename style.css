@@ -310,6 +310,7 @@ font-family: 'squarish_sans_ctregular';
   border-left: 0.1em solid #d3d3d3;
   transition: background 0.25s;
   color: #fff;
+  font-family: 'squarish_sans_ctregular';
 }
 .box:focus, .box:hover {
   background: black;
