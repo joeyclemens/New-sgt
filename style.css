@@ -317,13 +317,6 @@ font-family: 'squarish_sans_ctregular';
   
 }
 
-.box, img {
-  visibility: hidden;
-}
-.box:focus, .box:hover, img {
-  visibility: show;
-  
-}
 
 .box:last-child {
   border-right: 0.1em solid #d3d3d3;
