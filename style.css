@@ -9,6 +9,12 @@ body {
   width: 100%;
 }
 
+.header1 {
+  visibility: hidden;
+}
+.nav1 {
+  visibility: hidden;
+}
 
 
 html {
@@ -25,7 +31,9 @@ html {
   }
   
 /* Navigation parts- top header etc... */
-
+header {
+  background: black;
+}
 
 nav ul {
   position: fixed;
@@ -39,7 +47,7 @@ nav ul {
   height: 80px;
   overflow: hidden;
   animation: fadeIn linear 1.5s;
-  top: 5;
+  top: 0;
   z-index: 2;
 }
 
