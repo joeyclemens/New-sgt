@@ -11,6 +11,13 @@
     html {
         scroll-behavior: smooth;
     }
+    .header1 {
+      visibility: hidden;
+    }
+    .nav1 {
+      visibility: hidden;
+    }
+    
     
     /* Font selection */
     @font-face {
