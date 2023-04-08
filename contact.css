@@ -479,7 +479,9 @@ input[type=text], select {
           z-index: 3;
           
       }
-      
+      .nav1, li {
+        font-family: 'squarish_sans_ctregular', Arial, sans-serif;
+      }
       
       
       /* --------------------------- Footer --------------------------- */
