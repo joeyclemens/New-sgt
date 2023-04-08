@@ -348,7 +348,14 @@ input[type=text], select {
         padding: 0;
         background-color: black;
       }
-      
+      .header1 {
+        visibility: visible;
+      }
+  
+      .nav1 {
+        visibility: visible;
+      }
+    
       html {
           scroll-behavior: smooth;
       }

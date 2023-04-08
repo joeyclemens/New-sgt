@@ -644,8 +644,13 @@ p img {
     visibility: hidden;
   }
 
-    
-  
+    .header1 {
+      visibility: visible;
+    }
+
+    .nav1 {
+      visibility: visible;
+    }
   
   html {
       scroll-behavior: smooth;
