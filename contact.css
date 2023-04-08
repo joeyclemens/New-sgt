@@ -457,9 +457,9 @@ input[type=text], select {
       
         /* ==============================================Home====================================================*/
       .logo {
-        position: fixed;
+        position: relative;
         width: 100%;
-        visibility: hidden;
+       
       }
       
       header {
@@ -469,7 +469,7 @@ input[type=text], select {
       
       
       .brand {
-          position: fixed;
+          position: relative;
           top: -1%;
           left: 2%;
           color: white;
