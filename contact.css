@@ -459,7 +459,7 @@ input[type=text], select {
       .logo {
         position: fixed;
         width: 100%;
-       
+        visibility: hidden;
       }
       
       header {
@@ -477,7 +477,7 @@ input[type=text], select {
           text-align: center;
           font-family: 'squarish_sans_ctregular', Arial, sans-serif;
           z-index: 3;
-          visibility: hidden;
+          
       }
       
       
