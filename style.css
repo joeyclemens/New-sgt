@@ -313,7 +313,7 @@ font-family: 'squarish_sans_ctregular';
   font-family: 'squarish_sans_ctregular';
 }
 .box:focus, .box:hover {
-  background: black;
+  background: blue;
 }
 .box:last-child {
   border-right: 0.1em solid #d3d3d3;
